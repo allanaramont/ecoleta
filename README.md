@@ -9,7 +9,7 @@
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/desenvbr/ecoleta?color=%2304D361">
 
   <a href="https://github.com/desenvbr">
-    <img alt="Made by desenvbr" src="https://img.shields.io/badge/made%20by-Sup3r%20Us3r-%2304D361">
+    <img alt="Made by desenvbr" src="https://img.shields.io/badge/made%20by-DesenvBR-%2304D361">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
